@@ -27,7 +27,13 @@ With 3 years of experience in **Enterprise System Stability (VB.NET/Java)**, I a
 ---
 
 ## 📊 GitHub Stats
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmRickyChoi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://metrics.lecoq.io/IAmRickyChoi?template=classic&base.header=1&base.activity=0&base.community=0&base.metadata=0&languages=1&languages.limit=8&languages.recent.load=300&languages.recent.days=14&languages.colors=github&config.timezone=Asia/Tokyo" alt="Technical Metrics" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAmRickyChoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
