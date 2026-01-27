@@ -7,7 +7,7 @@ With 3 years of experience in **Enterprise System Stability (VB.NET/Java)**, I a
 
 ## 💫 About Me
 - 🔭 **Current Focus**: Architecting cross-platform mobile apps with **Flutter & Riverpod**.
-- ⚙️ **Backend Engineering**: Developing high-concurrency microservices using **Go (Golang)**.
+- ⚙️ Backend Engineering: Developing microservices using Go (Golang) and exploring system programming with Rust.
 - 🏛 **Core Philosophy**: "Clean Code, Scalable Architecture, and Business-Centric Development."
 - 📍 **Location**: Osaka, Japan (Relocation / Remote available)
 
@@ -19,7 +19,7 @@ With 3 years of experience in **Enterprise System Stability (VB.NET/Java)**, I a
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Backend & Database
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Dev Ops & Tools
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
