@@ -1,7 +1,7 @@
 # Hi there, I'm Ricky Choi 🇰🇷🇯🇵
 
 ### 🛠 Professional Software Engineer transitioning into High-Performance Mobile Solutions
-With 3 years of experience in **Enterprise System Stability (VB.NET/Java)**, I am now specializing in building scalable mobile applications using **Flutter** and robust backends with **Go**. I bridge the gap between complex business logic and seamless user experiences.
+With 3 years of experience in **Enterprise System Stability (VB.NET/Java)**, I am now specializing in building scalable mobile applications using **Flutter** and robust backends with **Go** and **Go**. I bridge the gap between complex business logic and seamless user experiences.
 
 ---
 
