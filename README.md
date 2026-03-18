@@ -1,24 +1,26 @@
-# 📱 Ricky Choi | Flutter & Cloud-Native Solutions
-**Bridging complex logic with high-performance mobile & cloud architecture.**
+# 📱 Ricky Choi | Flutter Developer
 
-Since **2022**, I have been engineering stable enterprise systems. Now, I am specializing in **High-Performance Mobile Solutions** and **Scalable Cloud Infrastructure**.
+Flutter-focused developer with experience in enterprise systems since August 2022. ( .NET )  
+Currently transitioning into mobile development, focusing on building scalable and maintainable Flutter applications.
 
 ---
 
 ## 🎯 Current Focus
-- 🏗️ **Flutter Specialist**: Architecting apps with a focus on **Scalable Design Patterns** and Riverpod.
-- ⚙️ **Modern Backend**: Mastering **Go (Golang)** and **Rust** for high-concurrency systems.
-- ☁️ **Cloud & DevOps**: Deepening expertise in **Docker & Kubernetes**; currently preparing for **GCP Associate Cloud Engineer (ACE)** certification.
+- 📱 Flutter app development
+- 🏗️ Clean Architecture + Riverpod
 
 ---
 
 ## 🛠 Tech Stack
 
-### ⚡ Pivoting To (Modern & Cloud-Native)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+### Mobile & Language
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=Dart&logoColor=white)
 
-### 📚 Experienced In (Enterprise)
-`Java` `VB.NET` `.NET` `PostgreSQL` `Git` 
+### Backend & Database (Foundation)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -32,4 +34,4 @@ Since **2022**, I have been engineering stable enterprise systems. Now, I am spe
 ## 📫 Connect with me
 - **LinkedIn**: [rickychoi97](https://www.linkedin.com/in/rickychoi97/)
 - **Email**: 0570yh@gmail.com
-- **Location**: Osaka, Japan 🇯🇵 (Open to Remote / Relocation)
+- **Location**: Osaka, Japan 🇯🇵
