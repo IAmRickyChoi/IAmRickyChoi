@@ -21,6 +21,7 @@ Currently transitioning into mobile development, focusing on building scalable a
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=white)
 
 ---
 
